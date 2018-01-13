@@ -2,9 +2,9 @@
 
 課題1同様の画像を使用する.
 
-ORG=imread('Cat.jpg'); % 原画像の入力		
-ORG = rgb2gray(ORG);		
-imagesc(ORG); colormap(gray); colorbar; % 画像の表示		
+ORG=imread('Cat.jpg'); % 原画像の入力 
+ORG = rgb2gray(ORG);  
+imagesc(ORG); colormap(gray); colorbar; % 画像の表示 
 
 により，グレースケールで原画像を読み込む.   
 原画像を図１に示す．
