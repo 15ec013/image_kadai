@@ -17,8 +17,8 @@ IMG = imresize(ORG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
 1/2サンプリングの結果を図２に示す．
-
-![1/2画像](https://github.com/15ec013/image_kadai/blob/master/img/1-2.PNG)  
+https://github.com/15ec013/image_kadai/blob/master/img/1-2.PNG
+![1/2画像]()  
 図2 1/2サンプリング
 
 
