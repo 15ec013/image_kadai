@@ -19,10 +19,9 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 1/2サンプリングの結果を図２に示す．
 
 ![1/2画像](https://github.com/15ec013/image_kadai/blob/master/img/1-2.PNG)  
-図2 1/2サンプリング    
-　    
-　    
-　    
+図2 1/2サンプリング
+
+
 同様に原画像を1/4サンプリングするには，1/2サンプリングした画像を1/2倍に縮小した後，2倍に拡大すればよい．
 
 IMG = imresize(IMG,0.5); % 画像の縮小  
@@ -31,10 +30,9 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 1/4サンプリングの結果を図３に示す．
 
 ![1/4画像](https://github.com/15ec013/image_kadai/blob/master/img/1-4.PNG)  
-図3 1/4サンプリング    
-　    
-　    
-　    
+図3 1/4サンプリング
+
+
 1/8から1/32サンプリングも同様に，
 
 IMG = imresize(IMG,0.5); % 画像の縮小  
