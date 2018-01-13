@@ -1,1 +1,3 @@
-(https://github.com/15ec013/image_kadai/blob/master/img/1-0.PNG)
+
+![原画像](https://github.com/mackhasegawa/lecture_image_processing/blob/master/image/org_img.png?raw=true)  
+図1 原画像
