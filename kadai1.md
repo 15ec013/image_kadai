@@ -5,7 +5,7 @@
 ORG=imread('Cat.jpg'); % 原画像の入力  
 imagesc(ORG); axis image; % 画像の表示
 
-によって，原画像を読み込む.
+によって，原画像を読み込む.  
 表示した結果を図１に示す．
 
 ![原画像](https://github.com/15ec013/image_kadai/blob/master/img/1-0.PNG)  
