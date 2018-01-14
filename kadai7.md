@@ -39,6 +39,8 @@ imagesc(ORG); colormap(gray); colorbar; % 画像の表示
 ORG = uint8(ORG); % この行について考察せよ   
 imhist(ORG); % 濃度ヒストグラムを生成、表示   
 
+ORGは画像が入っていて，元の型がuint8であるため，変換している．
+
 ヒストグラムを図４に示す．
 
 ![ヒスト２](https://github.com/15ec013/image_kadai/blob/master/img/7-1-Hist.PNG)
